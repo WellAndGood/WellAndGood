@@ -3,8 +3,11 @@
 My name is Daniel!
 I'm a full-stack web-developer based in Sudbury, Ontario.
 
-Human Languages: English, French, Italian, Spanish, (a little) German and Portuguese
-Machine Languages: Javascript + web dev. libraries, Python 
+#### Human Languages 
+English, French, Italian, Spanish, (a little) German and Portuguese
+#### Machine Languages
+Javascript + web dev. libraries, Python
+Including ReactJS, MySQL, MongoDB, GraphQL, Node, etc.
 
 - 🔭 I’m currently working on PluralSight learning, AlgoExpert algorithms, and (soon) side projects.
 - 🌱 I’m currently learning React.js and will soon be creating all of my side projects with it.
